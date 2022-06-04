@@ -45,3 +45,8 @@ a {
     color: #F9FAF8;
     font-weight: bolder;
 }
+
+#hero {
+    font-size: 42px;
+    font-weight:bolder;
+}
