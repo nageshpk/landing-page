@@ -25,3 +25,12 @@ a {
     text-decoration: none;
     color: #F9FAF8;
 }
+
+.button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 0 solid #F9FAF8;
+    border-radius: 8px;
+    padding: 8px 30px;
+    font-weight: 700;
+}
