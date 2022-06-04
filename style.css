@@ -23,6 +23,7 @@ body {
 a {
     text-decoration: none;
     color: #E5E7EB;
+    font-size: 18px;
 }
 
 .button {
@@ -62,4 +63,9 @@ a {
     display: flex;
     justify-content: flex-start;
     margin-left: -300px;
+}
+
+.secondary {
+    color: #E5E7EB;
+    font-size: 18px;
 }
