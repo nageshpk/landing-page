@@ -14,3 +14,13 @@
     align-items: center;
     height: 100px;
 }
+
+.one {
+    background-color: #1F2937;
+    font-family: Robota;
+    color: #F9FAF8;
+}
+
+a {
+    text-decoration: none;
+}
