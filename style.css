@@ -39,3 +39,9 @@ a {
     padding: 8px 30px;
     font-weight: 700;
 }
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bolder;
+}
