@@ -104,10 +104,9 @@ a {
 .three {
     background-color: #E5E7EB;
     display: flex;
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
     color: #1F2937;
-    font-size: 36px;
 }
 
 .quote {
@@ -115,4 +114,13 @@ a {
     justify-content: center;
     align-items: center;
     margin: 100px 450px;
+    font-size: 36px;
+}
+
+.thor {
+    display: flex;
+    justify-content:flex-end;
+    margin-right: 500px;
+    margin-top: -150px;
+    margin-bottom: 100px;
 }
